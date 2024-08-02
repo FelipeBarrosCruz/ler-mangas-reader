@@ -1,0 +1,48 @@
+{
+    "es": {
+        "pages": [
+            "Pagina",
+            "de"
+        ],
+        "deadEnd": {
+            "retry": "Volver a leer",
+            "exit": "Ir al indice"
+        },
+        "pageSelector": {
+            "goTo": "Ir a"
+        },
+        "about": {
+            "title": "Acerca de",
+            "modal": "Lector de Mangas creado por Cristian Jose Jimenez Diazgranados para"
+        },
+        "tooltips": {
+            "firstPage": "Primera pagina",
+            "lastPage": "Ultima pagina",
+            "nextPage": "Pagina siguiente",
+            "prevPage": "Pagina anterior"
+        }
+    },
+    "en": {
+        "pages": [
+            "Page",
+            "of"
+        ],
+        "deadEnd": {
+            "retry": "Read again",
+            "exit": "Go to index"
+        },
+        "pageSelector": {
+            "goTo": "Go to"
+        },
+        "about": {
+            "title": "About",
+            "modal": "Manga Reader created by Cristian Jose Jimenez Diazgranados for"
+        },
+        "tooltips": {
+            "firstPage": "First page",
+            "lastPage": "Last page",
+            "nextPage": "Next page",
+            "prevPage": "Preview page"
+        }
+    }
+}

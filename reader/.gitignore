@@ -1,0 +1,9 @@
+# Linux backups
+*~
+
+# url.js must be created by user
+url.js
+
+# Production code (empty folder will be in the repository)
+bin/*
+!bin/.gitkeep
